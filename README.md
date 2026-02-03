@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**laraib-developer/laraib-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Laraib 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science student  
+💻 Learning Frontend Development  
+🌱 Currently working with HTML, CSS, and JavaScript  
+📍 Based in Cyprus  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Skills
+- HTML5  
+- CSS3  
+- JavaScript (Beginner)  
+
+### Goals
+- Build real-world frontend projects  
+- Improve JavaScript concepts  
+
+📫 Connect with me on LinkedIn
 -->
